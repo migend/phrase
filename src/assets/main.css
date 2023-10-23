@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Inter');
+@import './base.css';
+
+html,
+body {
+  font-family:
+    'Inter',
+    system-ui,
+    -apple-system,
+    Arial,
+    sans-serif;
+}
+
+#app {
+  @apply w-full;
+}
